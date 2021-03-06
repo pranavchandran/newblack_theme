@@ -1,12 +1,12 @@
 ## Newblack
 
 Theme making for erpnext version-13
+<br/>
+bench get-app -> link<br/>
+bench --site [sitename] install-app [appname]<br/>
+bench --site [sitename] uninstall-app [appname]<br/>
 
-bench get-app -> link
-bench --site [sitename] install-app [appname]
-bench --site [sitename] uninstall-app [appname]
-
-
+<br/>
 #### License
 
 MIT
